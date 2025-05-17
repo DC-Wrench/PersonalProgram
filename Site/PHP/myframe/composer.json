@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "myframe\\": "myframe/"
+    }
+  },
+  "require": {
+    "smarty/smarty": "~4.3",
+    "ezyang/htmlpurifier": "^4.16"
+  }
+}

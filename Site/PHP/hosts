@@ -1,0 +1,6 @@
+#
+127.0.0.1 localhost
+::1 localhost
+
+127.0.0.1 myframe.test
+127.0.0.1 www.myframe.test
