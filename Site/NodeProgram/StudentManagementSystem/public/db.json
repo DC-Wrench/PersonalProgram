@@ -1,0 +1,147 @@
+{
+  "user": [
+    {
+      "create_time": "2024-07-15 15:27:56",
+      "username": "222",
+      "name": "张三",
+      "password": "222",
+      "sex": "男",
+      "age": "12",
+      "xueyuan": "数学学院",
+      "banji": "数学一班",
+      "id": "3357"
+    },
+    {
+      "id": "2d5b",
+      "create_time": "2024-07-15 22:54:19",
+      "username": "lisi",
+      "name": "李四",
+      "password": "123456",
+      "sex": "男",
+      "age": "18",
+      "xueyuan": "数学学院",
+      "banji": "数学二班"
+    },
+    {
+      "id": "4518",
+      "create_time": "2024-07-15 23:01:35",
+      "username": "zhangli",
+      "name": "张力",
+      "password": "123456",
+      "sex": "男",
+      "age": "20",
+      "xueyuan": "体育学院",
+      "banji": "体育一班"
+    }
+  ],
+  "xueyuan": [
+    {
+      "create_time": "2024-07-15 20:22:16",
+      "title": "音乐学院",
+      "content": "学音乐的",
+      "id": "153f"
+    },
+    {
+      "id": "148b",
+      "create_time": "2024-07-15 21:03:01",
+      "title": "软件学院",
+      "content": "学软件的"
+    },
+    {
+      "id": "bbdc",
+      "create_time": "2024-07-15 21:03:11",
+      "title": "体育学院",
+      "content": "体育生"
+    },
+    {
+      "create_time": "2024-07-15 21:08:21",
+      "title": "数学学院",
+      "content": "数学",
+      "id": "5b95"
+    },
+    {
+      "create_time": "2024-07-15 21:08:27",
+      "title": "语文学院",
+      "content": "语文",
+      "id": "ead5"
+    }
+  ],
+  "banji": [
+    {
+      "create_time": "",
+      "title": "语文一班",
+      "content": "",
+      "id": "7703",
+      "xueyuan_title": "语文学院",
+      "xueyuan_id": "ead5"
+    },
+    {
+      "id": "8f27",
+      "create_time": "",
+      "title": "数学一班",
+      "content": "",
+      "xueyuan_title": "数学学院",
+      "xueyuan_id": "5b95"
+    },
+    {
+      "create_time": "",
+      "title": "数学二班",
+      "content": "",
+      "id": "09fd",
+      "xueyuan_title": "数学学院",
+      "xueyuan_id": "5b95"
+    },
+    {
+      "id": "ae9c",
+      "create_time": "",
+      "title": "软件一班",
+      "content": "",
+      "xueyuan_title": "软件学院",
+      "xueyuan_id": "148b"
+    },
+    {
+      "id": "8c05",
+      "create_time": "",
+      "title": "体育一班",
+      "content": "",
+      "xueyuan_title": "体育学院",
+      "xueyuan_id": "bbdc"
+    },
+    {
+      "id": "6f19",
+      "create_time": "",
+      "title": "音乐一班",
+      "content": "",
+      "xueyuan_title": "音乐学院",
+      "xueyuan_id": "153f"
+    }
+  ],
+  "fenshu": [
+    {
+      "id": "82d4",
+      "title": "数学",
+      "content": "88",
+      "name": "张三"
+    },
+    {
+      "id": "d1c6",
+      "title": "数学",
+      "content": "60",
+      "name": "李四"
+    }
+  ],
+  "gonggao": [
+    {
+      "create_time": "2024-07-15 18:08:22",
+      "title": "最近多雨天气",
+      "content": "大家尽量少出校门",
+      "id": "d8db"
+    },
+    {
+      "create_time": "2024-07-15 18:08:30",
+      "title": "周一晨会",
+      "content": "请大家按时参加",
+      "id": "5b15"
+    }
+  ]
+}
